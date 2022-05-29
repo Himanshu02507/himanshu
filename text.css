@@ -283,10 +283,16 @@ body {
 .wrapper .github:hover span {
     background: #555;
 }
+.wrapper .discord:hover span {
+    background: #fff;
+}
 .wrapper .instagram:hover span {
     background: #E4405F;
 }
 .fa-twitter::before {
+    color: #000;
+}
+.fa-discord::before {
     color: #000;
 }
 .fa-github::before {
